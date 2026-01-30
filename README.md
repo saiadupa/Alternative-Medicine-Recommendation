@@ -1,1 +1,1 @@
-"# Alternative-Medicine-Recommendation" 
+"# Alternative-Medicine-Recommendation"
